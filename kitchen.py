@@ -11,3 +11,5 @@ class Quantity:
 
     def __repr__(self):
         return f"Quantity({self.amount})"
+
+    
